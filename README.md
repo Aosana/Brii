@@ -37,7 +37,7 @@ Brii contains nearly 1,000 mods that have been patched and tested extensively wi
 
 ## System Specs
 
-I play Brii with the following system specs:
+I develop and play Brii with the following system specs:
 
 * CPU: AMD Ryzen 7 5700G with Radeon Graphics @ 3.80 GHz
 * GPU: NVIDIA GeForce RTX 3080
