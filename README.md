@@ -47,4 +47,4 @@ I get a consistent 60 FPS at every location in the game; however, your mileage m
 
 # Skyrim: Anniversary Edition (AE)
 
-
+Brii requires the _**full**_ Anniversary Edition of The Elder Scrolls V: Skyrim. If you have The Elder Scrolls V: Skyrim Special Edition, then you can purchase the Anniversary Edition upgrade [here](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). If you do not yet own The Elder Scrolls V: Skyrim Special Edition, then you can buy the entirety of The Elder Scrolls V: Skyrim Anniversary Edition [here](https://store.steampowered.com/sub/626153). Please ensure that your game is up-to-date before attempting to install Brii!
