@@ -76,3 +76,7 @@ To change your installation's language setting, open the Steam Properties window
 It is highly recommended that you uninstall the game through Steam, delete the game folder, and reinstall it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents within it.
 
 [This](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after a clean reinstallation. 
+
+### Start Skyrim
+
+Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the game's root directory.
