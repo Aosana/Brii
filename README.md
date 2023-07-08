@@ -12,7 +12,7 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
-    - [Set The Game's Language To English](#set-the-game's-language-to-english)
+    - [Set The Game's Language To English](#set-the-games-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
     - [Start Skyrim](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
