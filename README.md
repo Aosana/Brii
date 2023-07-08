@@ -27,7 +27,7 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
 
 # Introduction
 
-"Qethsegol vahrukiv paaz kulaas Yrsa, wo ensosin pah do Taazokaan voth ek Dun ahrk **brii**." - Word Wall for _Dun,_ part of the Elemental Fury Shout.
+"Qethsegol vahrukiv paaz kulaas Yrsa, wo ensosin pah do Taazokaan voth ek Dun ahrk **brii**."
 
 Brii is a Wabbajack modlist for The Elder Scrolls V: Anniversary Edition that is built and balanced around [SimonMagus616](https://www.nexusmods.com/skyrimspecialedition/users/67410746)'s suite of mods. With a plethora of vanilla-styled graphical enhancements, quest expansions, dialogue additions, and gameplay overhauls, Brii offers a relatively simplistic overhaul of The Elder Scrolls V: Skyrim Anniversary Edition that does not stray too far from the vanilla game.
 
