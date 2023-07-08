@@ -31,11 +31,11 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
 
 Brii is a Wabbajack modlist for The Elder Scrolls V: Anniversary Edition that is built and balanced around [SimonMagus616](https://www.nexusmods.com/skyrimspecialedition/users/67410746)'s suite of mods. With a plethora of vanilla-styled graphical enhancements, quest expansions, dialogue additions, and gameplay overhauls, Brii offers a relatively simplistic overhaul of The Elder Scrolls V: Skyrim Anniversary Edition that does not stray too far from the vanilla game.
 
-# List Contents
+## List Contents
 
 Brii contains nearly 1,000 mods that have been patched and tested extensively with one another. For a full list of the mods found in Brii, check out the Load Order Library [here](https://loadorderlibrary.com/lists/brii)!
 
-# System Specs
+## System Specs
 
 I play Brii with the following computer specs:
 
@@ -45,6 +45,12 @@ I play Brii with the following computer specs:
 
 I get a consistent 60 FPS at every location in the game; however, your mileage may vary depending on your hardware. If you have issues with performance, please let me know as I may be able to help you!
 
-# Skyrim: Anniversary Edition (AE)
+## Skyrim: Anniversary Edition (AE)
 
 Brii requires the _**full**_ Anniversary Edition of The Elder Scrolls V: Skyrim. If you have The Elder Scrolls V: Skyrim Special Edition, then you can purchase the Anniversary Edition upgrade [here](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). If you do not yet own The Elder Scrolls V: Skyrim Special Edition, then you can buy the entirety of The Elder Scrolls V: Skyrim Anniversary Edition [here](https://store.steampowered.com/sub/626153). Please ensure that your game is up-to-date before attempting to install Brii!
+
+# Installation
+
+Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist; however, there are some pre-installation steps that must be followed for first-time users.
+
+
