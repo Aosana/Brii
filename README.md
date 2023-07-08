@@ -53,4 +53,14 @@ Brii requires the _**full**_ Anniversary Edition of The Elder Scrolls V: Skyrim.
 
 Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist; however, there are some pre-installation steps that must be followed for first-time users.
 
+## Pre-Installation
 
+These steps only need to be taken if you are installing Brii for the first time. If you are simply updating Brii to a later version, jump straight to [Updating](#updating).
+
+### Installing Microsoft Visual C++ Redistributable Package
+
+This package is required for Mod Organizer 2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019." [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+
+### Steam Library
+
+If you have your Steam Library in Program Files, read and follow [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else. Support will _not be provided_ to users who have their Skyrim installation in a Program Files folder. Folders such as Documents, Downloads, Desktop, or OneDrive are not acceptable places to move your Skyrim installation! Install your Steam Library to a drive's root, such as `C:\Steam Library`.
