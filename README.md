@@ -71,3 +71,8 @@ Wabbajack will fail to install Brii if your copy of The Elder Scrolls V: Skyrim 
 
 To change your installation's language setting, open the Steam Properties window, navigate to the _Language_ tab, and select _English_ from the dropdown menu.
 
+### Clean Skyrim
+
+It is highly recommended that you uninstall the game through Steam, delete the game folder, and reinstall it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents within it.
+
+[This](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after a clean reinstallation. 
