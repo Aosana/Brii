@@ -12,7 +12,7 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
-    - [Set the Game language to English](#set-the-game-language-to-english)
+    - [Set the Game language to English](#set-the-game's-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
     - [Start Skyrim](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
@@ -37,7 +37,7 @@ Brii contains nearly 1,000 mods that have been patched and tested extensively wi
 
 ## System Specs
 
-I play Brii with the following computer specs:
+I play Brii with the following system specs:
 
 * CPU: AMD Ryzen 7 5700G with Radeon Graphics @ 3.80 GHz
 * GPU: NVIDIA GeForce RTX 3080
@@ -47,7 +47,7 @@ I get a consistent 60 FPS at every location in the game; however, your mileage m
 
 ## Skyrim: Anniversary Edition (AE)
 
-Brii requires the _**full**_ Anniversary Edition of The Elder Scrolls V: Skyrim. If you have The Elder Scrolls V: Skyrim Special Edition, then you can purchase the Anniversary Edition upgrade [here](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). If you do not yet own The Elder Scrolls V: Skyrim Special Edition, then you can buy the entirety of The Elder Scrolls V: Skyrim Anniversary Edition [here](https://store.steampowered.com/sub/626153). Please ensure that your game is up-to-date before attempting to install Brii!
+Brii requires the _**full**_ Anniversary Edition of The Elder Scrolls V: Skyrim. If you have The Elder Scrolls V: Skyrim Special Edition, then you can purchase the Anniversary Edition upgrade [here](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). If you do not yet own The Elder Scrolls V: Skyrim Special Edition, then you can buy the entirety of The Elder Scrolls V: Skyrim Anniversary Edition [here](https://store.steampowered.com/sub/626153). Please ensure that your game is up-to-date and in English before attempting to install Brii!
 
 # Installation
 
@@ -55,7 +55,7 @@ Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a
 
 ## Pre-Installation
 
-These steps only need to be taken if you are installing Brii for the first time. If you are simply updating Brii to a later version, jump straight to [Updating](#updating).
+These steps only need to be taken if you are installing Brii for the first time. If you are simply updating Brii to a newer version, jump straight to [Updating](#updating).
 
 ### Installing Microsoft Visual C++ Redistributable Package
 
@@ -64,3 +64,10 @@ This package is required for Mod Organizer 2, and you can download it from [Micr
 ### Steam Library
 
 If you have your Steam Library in Program Files, read and follow [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else. Support will _not be provided_ to users who have their Skyrim installation in a Program Files folder. Folders such as Documents, Downloads, Desktop, or OneDrive are not acceptable places to move your Skyrim installation! Install your Steam Library to a drive's root, such as `C:\Steam Library`.
+
+### Set The Game's Language To English
+
+Wabbajack will fail to install Brii if your copy of The Elder Scrolls V: Skyrim Anniversary Edition is in any language other than English. All installed mods also assume you have an English copy of the game. I will not be able to provide support to users whose copy of The Elder Scrolls V: Skyrim Anniversary Edition is not in English.
+
+To change your installation's language setting, open the Steam Properties window, navigate to the _Language_ tab, and select _English_ from the dropdown menu.
+
