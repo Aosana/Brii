@@ -39,11 +39,11 @@ Brii contains nearly 1,000 mods that have been patched and tested extensively wi
 
 I play Brii with the following computer specs:
 
-Processor: AMD Ryzen 7 5700G with Radeon Graphics @ 3.80 GHz
-RAM: 32 GB
-Graphics Card: NVIDIA GeForce RTX 3080
+* CPU: AMD Ryzen 7 5700G with Radeon Graphics @ 3.80 GHz
+* GPU: NVIDIA GeForce RTX 3080
+* RAM: 32 GB
 
-I get a consistent 60 FPS at every location in the game; however, your mileage may vary depending on your own hardware. If you have issues with performance, please let me know as I may be able to help you!
+I get a consistent 60 FPS at every location in the game; however, your mileage may vary depending on your hardware. If you have issues with performance, please let me know as I may be able to help you!
 
 # Skyrim: Anniversary Edition (AE)
 
