@@ -9,7 +9,7 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
   - [Minimum Specs](#minimum-specs)
   - [Skyrim: Anniversary Edition (AE)](#skyrim-anniversary-edition-ae)
 - [Installation](#installation)
-  - [Pre-Install](#pre-install)
+  - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
