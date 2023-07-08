@@ -33,4 +33,4 @@ Brii is a Wabbajack modlist for The Elder Scrolls V: Anniversary Edition that is
 
 # List Contents
 
-Brii contains nearly 1,000 mods that have been patched and tested extensively with one another. For a full list of the mods found in Brii, check out the Load Order Library here: [https://loadorderlibrary.com/lists/brii]([url](https://loadorderlibrary.com/lists/brii)https://loadorderlibrary.com/lists/brii)
+Brii contains nearly 1,000 mods that have been patched and tested extensively with one another. For a full list of the mods found in Brii, check out the Load Order Library [here]([url](https://loadorderlibrary.com/lists/brii)https://loadorderlibrary.com/lists/brii)!
