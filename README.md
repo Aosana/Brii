@@ -6,7 +6,7 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
 - [Table Of Contents](#tableofcontents)
 - [Introduction](#introduction)
   - [List Contents](#list-contents)
-  - [Minimum Specs](#minimum-specs)
+  - [System Specs](#system-specs)
   - [Skyrim: Anniversary Edition (AE)](#skyrim-anniversary-edition-ae)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
@@ -34,3 +34,17 @@ Brii is a Wabbajack modlist for The Elder Scrolls V: Anniversary Edition that is
 # List Contents
 
 Brii contains nearly 1,000 mods that have been patched and tested extensively with one another. For a full list of the mods found in Brii, check out the Load Order Library [here](https://loadorderlibrary.com/lists/brii)!
+
+# System Specs
+
+I play Brii with the following computer specs:
+
+Processor: AMD Ryzen 7 5700G with Radeon Graphics @ 3.80 GHz
+RAM: 32 GB
+Graphics Card: NVIDIA GeForce RTX 3080
+
+I get a consistent 60 FPS at every location in the game; however, your mileage may vary depending on your own hardware. If you have issues with performance, please let me know as I may be able to help you!
+
+# Skyrim: Anniversary Edition (AE)
+
+
