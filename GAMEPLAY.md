@@ -37,6 +37,10 @@ Supplementing these magic overhauls and spell packs is [Sorcerer - A Staff and S
 
 ## Combat
 
+[Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549) provides a fresh spin on vanilla combat, making all combative encounters more dangerous and rewarding if played well. Stamina management becomes almost as important as health management, and injuries can severely impact your chances of survival if they are not taken care of by sleeping. I highly advise that you read through Blade and Blunt's mod page yourself for a better idea of what it changes!
+
+Brii includes many enemy overhauls that are designed around Blade and Blunt's changes! [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) completely changes how you'll go about fighting dragons, as they no longer have obvious weaknesses and will no longer be forced to stay grounded when at low health. [King-Priest - Enhanced Dragon Priests](https://www.nexusmods.com/skyrimspecialedition/mods/59652) changes the pitiful Dragon Priests into something to be feared and respected. Don't go to Shearpoint without a plan, unless you really are confident in fighting a dragon and its priest simultaneously! [The Dragon Cult - A Draugr Overhaul ](https://www.nexusmods.com/skyrimspecialedition/mods/81422) adds much-needed variety to these Nord warriors of a bygone era, and it also ensures that you won't steamroll Nordic ruins at higher levels.
+
 ## Weapons And Armor
 
 # Questline Changes
