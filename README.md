@@ -36,6 +36,8 @@ Brii is a Wabbajack modlist for The Elder Scrolls V: Anniversary Edition that is
 
 Brii contains nearly 1,000 mods that have been patched and tested extensively with one another. For a full list of the mods found in Brii, check out the Load Order Library [here](https://loadorderlibrary.com/lists/brii)!
 
+For an in-depth description of mods and their changes in Brii, check out the [gameplay](GAMEPLAY.md) section!
+
 ## System Specs
 
 I develop and play Brii at 1080p resolution with the following system specs:
