@@ -81,7 +81,7 @@ It is highly recommended that you uninstall the game through Steam, delete the g
 
 ### Start Skyrim
 
-Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the game's root directory.
+Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the game's root directory. If you have not yet launched The Elder Scrolls V: Skyrim Anniversary Edition, then you will be prompted to download all the Creation Club mods. Do so as they are all used within Brii!
 
 ## Using Wabbajack
 
