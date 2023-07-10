@@ -134,3 +134,15 @@ If this mod list receives an update, please check the changelog before doing any
 This means that any additional mods you have installed on top of the mod list will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save-compatible. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing mod list_ button.
+
+# Startup
+
+Open the installation folder and double-click on the program called `ModOrganizer.exe`.
+
+Make sure the dropdown box on the right is set to `SKSE` and press the Run button.
+
+# Issues
+
+If you encounter an issue, please file a bug report and attach related images/videos along with your save file.
+
+
