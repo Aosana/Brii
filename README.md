@@ -5,7 +5,6 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
 
 # Table Of Contents
 
-- [Table Of Contents](#table-of-contents)
 - [Introduction](#introduction)
   - [List Contents](#list-contents)
   - [System Specs](#system-specs)
