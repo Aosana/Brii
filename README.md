@@ -19,9 +19,9 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
     - [Start Skyrim](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
-    - [Downloading and Installing](#downloading-and-installing)
-    - [Problems with Wabbajack](#problems-with-wabbajack)
-    - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
+    - [Downloading And Installing](#downloading-and-installing)
+    - [Problems With Wabbajack](#problems-with-wabbajack)
+    - [Pagefile In The Prevention Of Memory Crashes](#pagefile-in-the-prevention-of-memory-crashes)
   - [Existing Saves](#existing-saves)
 - [Updating](#updating)
 - [Startup](#startup)
@@ -82,3 +82,46 @@ It is highly recommended that you uninstall the game through Steam, delete the g
 ### Start Skyrim
 
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the game's root directory.
+
+## Using Wabbajack
+
+### Preparations
+
+Download the release to a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+
+### Downloading and Installing
+
+The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Brii"
+2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish!
+3. Download the latest release of `Brii` from the Github
+4. Select the created folder in step 1 as your installation folder
+5. Select the created folder in step 2 as your downloads folder
+6. Click the Go/Begin button and wait for Wabbajack to finish
+
+### Problems With Wabbajack
+
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
+
+Seriously, simply retrying the Wabbajack download fixes most problems.
+
+**Could not download x**:
+
+If a mod updates and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
+
+Some files are known to be problematic, it is likely those are the ones that failed. You can download them manually from their source and place the archives **AS IS** in the downloads folder.
+
+**x is not a whitelisted download**:
+
+This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+
+**Wabbajack could not find my game folder**:
+
+Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+
+### Pagefile In The Prevention Of Memory Crashes
+
+Bigger Skyrim mod lists need a lot of memory, and when there is not enough available it may fail to allocate more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
