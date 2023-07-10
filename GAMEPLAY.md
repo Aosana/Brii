@@ -8,7 +8,7 @@
   - [Perks](#perks)
   - [Spells](#spells)
   - [Combat](#combat)
-  - [Weapons and Armor](#weapons-and-armor)
+  - [Weapons And Armor](#weapons-and-armor)
 - [Questline Changes](questline-changes)
   - [The Main Quest](#the-main-quest)
   - [The Civil War](#the-civil-war)
@@ -18,3 +18,31 @@
   - [The Dawnguard](#the-dawnguard)
   - [The Penitus Oculatus](#the-penitus-oculatus)
   - [The Thieves Guild](#the-thieves-guild)
+
+# Gameplay Changes
+
+## Perks
+
+## Spells
+
+## Combat
+
+## Weapons And Armor
+
+# Questline Changes
+
+## The Main Quest
+
+## The Civil War
+
+## The College of Winterhold
+
+## The Companions
+
+## The Dark Brotherhood
+
+## The Dawnguard
+
+## The Penitus Oculatus
+
+## The Thieves Guild
