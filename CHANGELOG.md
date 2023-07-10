@@ -2,6 +2,10 @@
 
 # Changelog 
 
+## Version 1.0.1
+
+- Removed Creation Kit-related files from the Stock Game folder. They were accidentally included in the initial release.
+
 ## Version 1.0.0
 
 Initial release.
