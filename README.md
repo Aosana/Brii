@@ -124,4 +124,4 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Pagefile In The Prevention Of Memory Crashes
 
-Bigger Skyrim mod lists need a lot of memory, and when there is not enough available it may fail to allocate more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+Bigger Skyrim mod lists need a lot of memory, and when there is not enough available it may fail to allocate more. To fix this, you'll want to have a bigger [page file](https://www.ibm.com/docs/en/opw/8.2.0?topic=tuning-optional-increasing-paging-file-size-windows-computers). 
