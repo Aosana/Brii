@@ -22,7 +22,6 @@ A Wabbajack modlist for The Elder Scrolls V: Anniversary Edition, built and bala
     - [Downloading And Installing](#downloading-and-installing)
     - [Problems With Wabbajack](#problems-with-wabbajack)
     - [Pagefile In The Prevention Of Memory Crashes](#pagefile-in-the-prevention-of-memory-crashes)
-  - [Existing Saves](#existing-saves)
 - [Updating](#updating)
 - [Startup](#startup)
 - [Issues](#issues)
@@ -98,8 +97,8 @@ The download and installation process can take a little while (an hour or more) 
 1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Brii"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish!
 3. Download the latest release of `Brii` from the Github
-4. Select the created folder in step 1 as your installation folder
-5. Select the created folder in step 2 as your downloads folder
+4. Select the created folder in Step 1 as your installation folder
+5. Select the created folder in Step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
 
 ### Problems With Wabbajack
@@ -110,13 +109,13 @@ Seriously, simply retrying the Wabbajack download fixes most problems.
 
 **Could not download x**:
 
-If a mod updates and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
+If a mod updates and the old files got deleted, it is impossible to download them. In this case, just wait until I update the mod list.
 
-Some files are known to be problematic, it is likely those are the ones that failed. You can download them manually from their source and place the archives **AS IS** in the downloads folder.
+Some files are known to be problematic, and it is likely that those are the ones that failed. You can download them manually from their source and place the archives **AS IS** in your Wabbajack downloads folder.
 
 **x is not a whitelisted download**:
 
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+This can happen when I update the modlist. Check if a new update is available, and wait if there is none.
 
 **Wabbajack could not find my game folder**:
 
@@ -125,3 +124,13 @@ Wabbajack will not work with a non-English, GOG, or pirated version of the game.
 ### Pagefile In The Prevention Of Memory Crashes
 
 Bigger Skyrim mod lists need a lot of memory, and when there is not enough available it may fail to allocate more. To fix this, you'll want to have a bigger [page file](https://www.ibm.com/docs/en/opw/8.2.0?topic=tuning-optional-increasing-paging-file-size-windows-computers). 
+
+# Updating
+
+If this mod list receives an update, please check the changelog before doing anything. Always back up your saves or start a new game after updating!
+
+**Wabbajack will delete all files that are not part of the mod list when updating!**
+
+This means that any additional mods you have installed on top of the mod list will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save-compatible. Your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing mod list_ button.
