@@ -127,11 +127,11 @@ Bigger Skyrim mod lists need a lot of memory, and when there is not enough avail
 
 # Updating
 
-If this mod list receives an update, please check the changelog before doing anything. Always back up your saves or start a new game after updating!
+If this mod list receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always back up your saves or start a new game after updating!
 
 **Wabbajack will delete all files that are not part of the mod list when updating!**
 
-This means that any additional mods you have installed on top of the mod list will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save-compatible. Your downloads folder will not be touched!
+This means that any additional mods you have installed on top of the mod list will be deleted. Your saves will be kept, but please check each update [changelog](CHANGELOG.md) to see if the update is save-compatible. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing mod list_ button.
 
