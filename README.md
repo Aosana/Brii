@@ -120,7 +120,7 @@ This can happen when I update the modlist. Check if a new update is available an
 
 **Wabbajack could not find my game folder**:
 
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+Wabbajack will not work with a non-English, GOG, or pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
 ### Pagefile In The Prevention Of Memory Crashes
 
