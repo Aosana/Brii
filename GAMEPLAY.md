@@ -33,6 +33,8 @@
 
 [Natura](https://www.nexusmods.com/skyrimspecialedition/mods/77826) adds nature-based spells, [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852) adds moon-based spells, [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) adds shadow-based spells, [Bloodmoon](https://www.nexusmods.com/skyrimspecialedition/mods/84304) adds blood-based spells, [Flames of Coldharbour](https://www.nexusmods.com/skyrimspecialedition/mods/85425) adds Coldfire-based spells, [Necrom](https://www.nexusmods.com/skyrimspecialedition/mods/86292) adds Apocrypha-based spells, [Stellaris](https://www.nexusmods.com/skyrimspecialedition/mods/86833) adds cosmic-based spells, [Vulcano](https://www.nexusmods.com/skyrimspecialedition/mods/88689) adds volcano-based spells, [Arclight](https://www.nexusmods.com/skyrimspecialedition/mods/90405) adds lightning-based spells, [Desecration](https://www.nexusmods.com/skyrimspecialedition/mods/90832) adds necromancy-based spells, and [Arcane](https://www.nexusmods.com/skyrimspecialedition/mods/91602) adds Magnus-based spells. Seriously, [Darenii](https://www.nexusmods.com/skyrimspecialedition/users/5073294) has created so many cool and unique Mysticism-balanced spell packs that I cannot reasonably dedicate the time to explain how interesting they are and how much variety they add to builds. Try them all!
 
+Supplementing these magic overhauls and spell packs is [Sorcerer - A Staff and Scroll Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95196)! With the ability to craft staves and scrolls, warriors, rouges, archers, and all can enjoy the power of Aetherius and beyond without being forced to invest in Magicka upon leveling up. Watch your carry weight, though!
+
 ## Combat
 
 ## Weapons And Armor
