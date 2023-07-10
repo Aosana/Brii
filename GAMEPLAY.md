@@ -41,7 +41,7 @@ Supplementing these magic overhauls and spell packs is [Sorcerer - A Staff and S
 
 [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487), [Encounter Zones Unlocked AE](https://www.nexusmods.com/skyrimspecialedition/mods/19608), and [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) all provide additional changes and challenges relating to Skyrim's encounter zone feature. To put it simply, enemies like dragon priests will be a serious threat at lower levels, and you can't just visit hard dungeons at lower levels to ensure an easier fight later down the line. 
 
-Brii includes many enemy overhauls that are designed around Blade and Blunt's changes! 
+Brii includes many enemy overhauls that mesh well with Blade and Blunt's combat changes! 
 
 - [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) completely changes how you'll go about fighting dragons, as they no longer have obvious weaknesses and will no longer be forced to stay grounded when at low health.
 - [King-Priest - Enhanced Dragon Priests](https://www.nexusmods.com/skyrimspecialedition/mods/59652) changes the pitiful Dragon Priests into something to be feared and respected. Don't go to Shearpoint without a plan, unless you really are confident in fighting a dragon and its priest simultaneously!
