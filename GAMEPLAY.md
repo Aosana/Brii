@@ -23,6 +23,8 @@
 
 ## Perks
 
+[Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) is Brii's perk mod of choice, with its Bard Perks Addon and [Hand to Hand - An Adamant Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/59790) fleshing out and refining the available perks even more.
+
 ## Spells
 
 ## Combat
