@@ -4,6 +4,8 @@
 
 ## Version 1.1.0
 
+Save-safe!
+
 - Added Green Water Cubemap Fix.
 - Added NPC Stuck in Bleedout Fix.
 - Added The Heart of Dibella - Quest Expansion.
