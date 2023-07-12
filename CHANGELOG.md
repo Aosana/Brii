@@ -2,6 +2,16 @@
 
 # Changelog 
 
+## Version 1.1.0
+
+- Added Green Water Cubemap Fix.
+- Added NPC Stuck in Bleedout Fix.
+- Added The Heart of Dibella - Quest Expansion.
+- Updated College of Winterhold - Quest Expansion.
+- Updated Companions Dialogue Bundle.
+- Updated Paradigm - A Quick Start Overhaul.
+- Updated Stronger Swimming Animations SE.
+
 ## Version 1.0.2
 
 - Removed the Tools folder entirely from the Wabbajack installation.
