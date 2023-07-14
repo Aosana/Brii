@@ -4,6 +4,8 @@
 
 ## Version 1.1.1
 
+Save-safe!
+
 - Added The Heart of Dibella - Quest Expansion - Ace Bonus.
 - Updated Community Shaders.
 
@@ -21,10 +23,14 @@ Save-safe!
 
 ## Version 1.0.2
 
+Save-safe!
+
 - Removed the Tools folder entirely from the Wabbajack installation.
 - Removed the xLODGen archive from the downloads folder as some users could not manage to download it.
 
 ## Version 1.0.1
+
+Save-safe!
 
 - Removed Creation Kit-related files from the Stock Game folder. They were accidentally included in the initial release.
 
