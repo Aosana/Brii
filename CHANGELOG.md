@@ -2,6 +2,11 @@
 
 # Changelog 
 
+## Version 1.1.1
+
+- Added The Heart of Dibella - Quest Expansion - Ace Bonus.
+- Updated Community Shaders.
+
 ## Version 1.1.0
 
 Save-safe!
