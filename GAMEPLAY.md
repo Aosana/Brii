@@ -9,6 +9,7 @@
   - [Spells](#spells)
   - [Combat](#combat)
   - [Weapons And Armor](#weapons-and-armor)
+  - [Survival](#survival)
 - [Questline Changes](questline-changes)
   - [The Main Quest](#the-main-quest)
   - [The Civil War](#the-civil-war)
@@ -52,6 +53,8 @@ Brii includes many enemy overhauls that mesh well with Blade and Blunt's combat 
 - [Forsworn Skinchangers](https://www.nexusmods.com/skyrimspecialedition/mods/34900) and [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143) provide new Forsworn enemy types. Skinchangers are werewolves and werebears that begin appearing in Forsworn areas at level 14, and Gravesingers are necromancy-practicing Forsworn that can rarely exist alongside, and resurrect, their companions. Part of [Forsworn and Thalmor Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80188) provides more depth and dialogue to the neglected Forsworn, as well.
 
 ## Weapons And Armor
+
+## Survival
 
 # Questline Changes
 
